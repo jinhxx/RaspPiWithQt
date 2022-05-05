@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/darth_vader_icon.png</file>
+        <file>images/melody.png</file>
+        <file>images/Mario_icon.png</file>
+    </qresource>
+</RCC>

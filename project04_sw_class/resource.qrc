@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/led_50x50.png</file>
+        <file>image/humidity.png</file>
+        <file>image/temperature.png</file>
+        <file>image/motion-sensor.png</file>
+    </qresource>
+</RCC>

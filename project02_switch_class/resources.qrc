@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/on-button.png</file>
+        <file>images/off-button.png</file>
+        <file>images/free-icon-led-2231268.png</file>
+    </qresource>
+</RCC>
